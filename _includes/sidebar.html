@@ -3,8 +3,12 @@
 
   <div class="profile-container">
 
-    {% if sidebar.name %}
+    {% if sidebar.avatar %}
     <img class="avatar" src="{{ site.baseurl }}/assets/images/{{ sidebar.avatar }}" alt="profile picture" />
+    {% endif %}
+
+    {% if sidebar.avatar-url %}
+    <img class="avatar" src="{{ sidebar.avatar-url }}" alt="profile picture"/>
     {% endif %}
 
     {% if sidebar.name %}
@@ -24,6 +28,7 @@
   {% endif %}
 
   {% include language.html %}
+  {% include soft-skills.html %}
   {% include interests.html %}
 
   {% if sidebar.about %}

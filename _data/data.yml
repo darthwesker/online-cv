@@ -3,188 +3,257 @@
 #
 
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    #about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    name: Carlos Almeida
+    tagline: Tech Lead
+    # avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    avatar-url: https://media-exp1.licdn.com/dms/image/C4D03AQGwhH2qloAolw/profile-displayphoto-shrink_100_100/0?e=1610582400&v=beta&t=xm5xI8sf1FuJHmCt6MpGm6YVzTCd1JWxQUVZS9mtZdU
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    github: sharu725
+    email:
+    phone:
+    website: #do not add http://
+    linkedin: carlos-e-almeida
+    github: darthwesker
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
+    twitter:
+    stack-overflow: 14649070/carlos-almeida # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
 
     languages:
-      - idiom: English
+      - idiom: Portuguese
         level: Native
 
-      - idiom: French
-        level: Professional
-
-      - idiom: Spanish
+      - idiom: English
         level: Professional
 
     interests:
-      - item: Climbing
+      - item: Motorsports 
         link:
 
-      - item: Snowboarding
+      - item: Video Games
         link:
 
-      - item: Cooking
+      - item: LEGO 
         link:
+
+    soft-skills:
+      - item: Analytical
+
+      - item: Communication
+
+      - item: Critical Thinking
+
+      - item: Decision Making
+
+      - item: Leadership
+
+      - item: Problem Solving
+
+      - item: Project Management
+
+      - item: Teamwork
 
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      Software Engineer with 10 years of experience developing Web and Mobile Applications.  
+      Started his professional career as a Full-stack Software Developer, participating in multiple European projects for the health industry.  
+      Founded his own company to offer consulting services and to launch two applications.  
+      After this rich experience, returned to INESC TEC to play the role of Tech Lead for a European Project, being responsible for leading a small team of 
+      engineers, hiring and mentoring new members, choosing the tech stack of each component and also of the quality and delivery.  
+      Focused and objective oriented, is always seeking new ways to improve his team’s working methods allowing them to be more productive.
+      Fun and relaxed, but aware of his responsibilities, sees problems as part of the development process so that he can easily overcome them, 
+      keeping his team motivated and delivering excellent results.
+
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+    - degree: Master’s degree in Electrical and Computers Engineering
+      university: Faculty of Engineering of the University of Porto
+      time: Sep 2003 - Mar 2010
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Tech Lead
+      time: 2018 - Present
+      company: Institute for Systems and Computer Engineering of Porto
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+        In 2018, was invited to join full-time INESC TEC, as a Tech Lead, for the European Project MELOA assuming the responsibility for the full life cycle
+        of a wide variety of components, analysis, design, development, testing, deployment, post-production support/maintenance and documentation. 
+        These components are related with acquisition, processing and visualization of data from IoT devices.  
+          - Javascript (ReactJS, Redux)
+          - NodeJS (ExpressJS, Sequelize ORM, Loopback Framework)
+          - PostgreSQL
+          - MongoDB
+          - InfluxDB
+          - RabbitMQ
+          - Typescript (Ionic)
+          - Docker
+          - Nginx
+          - Keycloak
+          - Mocha (Test)
+          - Git (Gitlab, GitHub)
+          - CI/CD
+    - role: CEO & Lead Developer
+      time: 2015 - 2018
+      company: Quadisoft - Software Systems, Lda
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+        Started his own company in 2015 to provide consulting services and launch two apps, Buz Random and AutoVig, while collaborating part-time with INESC TEC, 
+        as Team Leader, on an European project to develop Marine Technologies. Besides the two apps and the European project also developed billing software for
+        other clients.
+          - Javascript (JQuery, AngularJS)
+          - NodeJS (ExpressJS, Sequelize ORM, Loopback Framework)
+          - Objective-C (iOS)
+          - PHP (Laravel & Slim)
+          - PostgreSQL
+          - MongoDB
+          - Docker
+          - Nginx
+          - ASP.NET
+          - C#
+          - Git (Gitlab, GitHub)
+          - CI/CD
+    - role: Researcher
+      time: 2011 - 2014
+      company: Institute for Systems and Computer Engineering of Porto
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        At the beginning of 2011, joined the Institute for Systems and Computer Engineering of Porto as a researcher.
+        During four years worked on National and European projects, developing mostly Web Applications. One of the platforms was nominated for the European Health Awards.
+          - Javascript (JQuery, AngularJS)
+          - Java (Android, Play Framework)
+          - NodeJS (ExpressJS, Sequelize ORM)
+          - Objective-C (iOS)
+          - PHP (Symfony)
+          - PostgreSQL
+    - role: Software Developer
+      time: 2010
+      company: Floatstudios, Lda
+      details: |
+        Started his professional career in October 2010, working as a fullstack developer, developing Web Application to support administrative work.
+          - JavaScript (JQuery)
+          - MySQL
+          - PHP
 projects:
-    title: Projects
+    title: Relevant Projects & Libraries
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      List of the most relevant projects and open source libraries.
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - title: MELOA
+        link: "https://www.ec-meloa.eu"
+        tagline: "H2020 project that is developing an innovative family of products, WAVY drifter units, allowing for a low-cost, easily deployable, high versatility, and low maintenance system for in-situ measurements for marine environments."
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+      - title: SeaBioData
+        link: "https://eeagrants.org/archive/2009-2014/projects/PT02-0017"
+        tagline: "Portuguese Seamounts Biodiversity Data Management."
 
-      - title: Tempo
+      - title: SARA
         link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+        tagline: "Asset Management System for Road Networks."
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+      - title: E-Compared
+        link: "https://www.e-compared.eu/"
+        tagline: "European Comparative Effectiveness Research on Internet-based Depression Treatment"
 
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+      - title: ICT4Depression
+        link: "http://www.ict4depression.eu/"
+        tagline: "User-friendly ICT Tools to Enhance Self-Management and Effective Treatment of Depression in the EU."
 
-publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-    papers:
-      - title: The Art of Computer Programming
+      - title: Palco Mobile
         link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+        tagline: "Music Streamming application for professional artists, available for Android and iOS."
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+      - title: AutoVig
         link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+        tagline: "A web platform to help recover stolen vehicles."
 
-      - title: A syntax directed compiler for Algol 60
+      - title: Buz Random
         link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+        tagline: "Random Message Application for iOS"
+
+      - title: react-admin-loopback
+        link: "https://github.com/darthwesker/react-admin-loopback"
+        tagline: "React Admin Data Provider for Loopback3 - Suggested by React Admin creators."
+
+      - title: loopback-content-range
+        link: "https://github.com/darthwesker/loopback-content-range"
+        tagline: "Support react-admin for Loopback 3 by adding Content-Range header."
+
+      - title: loopback-full-text-search
+        link: "https://github.com/darthwesker/loopback-full-text-search"
+        tagline: "Add Full-text search when using the q parameter in the where clause for Loopback 3."
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
-
-      - name: Javascript & jQuery
-        level: 98%
-
-      - name: Angular
-        level: 98%
+      - name: NodeJS (ExpressJS & Loopback)
+        level: 100%
 
       - name: HTML5 & CSS
         level: 95%
 
-      - name: Ruby on Rails
+      - name: ReactJS & Redux
+        level: 95%
+
+      - name: JQuery
+        level: 95%
+
+      - name: PostgreSQL
+        level: 95%
+
+      - name: MySQL/MariaDB
+        level: 95%
+
+      - name: Angular
+        level: 90%
+
+      - name: Nginx
+        level: 90%
+
+      - name: Git (Gitlab & GitHub)
+        level: 90%
+
+      - name: C# (with Entity Framework)
         level: 85%
 
-      - name: Sketch & Photoshop
-        level: 60%
+      - name: ASP.NET
+        level: 85%
+
+      - name: Docker
+        level: 80%
+
+      - name: MongoDB
+        level: 80%
+
+      - name: SQL Server
+        level: 80%
+
+      - name: PHP (Symfony, Laravel & Slim Framework)
+        level: 75%
+
+      - name: Apache
+        level: 75%
+
+      - name: Java (Android & Play Framework)
+        level: 70%
+
+      - name: Objective-C (iOS)
+        level: 70%
+
+      - name: InfluxDB
+        level: 70%
+
+      - name: RabbitMQ
+        level: 70%
+
+      - name: CI/CD (Jenkins)
+        level: 70%
+
+      - name: Keycloak
+        level: 70%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
