@@ -9,8 +9,7 @@ sidebar:
     # Profile information
     name: Carlos Almeida
     tagline: Tech Lead
-    # avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
-    avatar-url: https://media-exp1.licdn.com/dms/image/C4D03AQGwhH2qloAolw/profile-displayphoto-shrink_100_100/0?e=1610582400&v=beta&t=xm5xI8sf1FuJHmCt6MpGm6YVzTCd1JWxQUVZS9mtZdU
+    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email:
@@ -65,7 +64,7 @@ career-profile:
     summary: |
       Software Engineer with 10 years of experience developing Web and Mobile Applications.  
       Started his professional career as a Full-stack Software Developer, participating in multiple European projects for the health industry.  
-      Founded his own company to offer consulting services and to launch two applications.  
+      Founded his own company to offer consulting services and to launch two applications that he devised.  
       After this rich experience, returned to INESC TEC to play the role of Tech Lead for a European Project, being responsible for leading a small team of 
       engineers, hiring and mentoring new members, choosing the tech stack of each component and also of the quality and delivery.  
       Focused and objective oriented, is always seeking new ways to improve his team’s working methods allowing them to be more productive.
@@ -75,7 +74,6 @@ career-profile:
 education:
     - degree: Master’s degree in Electrical and Computers Engineering
       university: Faculty of Engineering of the University of Porto
-      time: Sep 2003 - Mar 2010
 experiences:
     - role: Tech Lead
       time: 2018 - Present
@@ -150,7 +148,6 @@ projects:
         tagline: "Portuguese Seamounts Biodiversity Data Management."
 
       - title: SARA
-        link: "#"
         tagline: "Asset Management System for Road Networks."
 
       - title: E-Compared
@@ -162,26 +159,23 @@ projects:
         tagline: "User-friendly ICT Tools to Enhance Self-Management and Effective Treatment of Depression in the EU."
 
       - title: Palco Mobile
-        link: "#"
         tagline: "Music Streamming application for professional artists, available for Android and iOS."
 
       - title: AutoVig
-        link: "#"
         tagline: "A web platform to help recover stolen vehicles."
 
       - title: Buz Random
-        link: "#"
         tagline: "Random Message Application for iOS"
 
-      - title: react-admin-loopback
+      - title: Repository - react-admin-loopback
         link: "https://github.com/darthwesker/react-admin-loopback"
         tagline: "React Admin Data Provider for Loopback3 - Suggested by React Admin creators."
 
-      - title: loopback-content-range
+      - title: Repository - loopback-content-range
         link: "https://github.com/darthwesker/loopback-content-range"
         tagline: "Support react-admin for Loopback 3 by adding Content-Range header."
 
-      - title: loopback-full-text-search
+      - title: Repository - loopback-full-text-search
         link: "https://github.com/darthwesker/loopback-full-text-search"
         tagline: "Add Full-text search when using the q parameter in the where clause for Loopback 3."
 
