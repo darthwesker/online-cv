@@ -63,9 +63,9 @@ career-profile:
     title: Career Profile
     summary: |
       Software Engineer with 10 years of experience developing Web and Mobile Applications.  
-      Started his professional career as a Full-stack Software Developer, participating in multiple European projects in the health sector, working in INESC-TEC.
+      Started his professional career as a Full-stack Software Developer, participating in multiple European projects in the health sector, working in INESC-TEC.  
       Founded his own company to provide consultancy services and to further focus on app development, while remaining in a part-time capacity with INESC-TEC.
-      Developed and launched two applications during that period.
+      Developed and launched two applications during that period.  
       As the opportunity arose, returned full-time to INESC TEC to play the role of Tech Lead for a European Project, being responsible for leading a small team of
       engineers, hiring and mentoring new members, choosing the tech stack of each component and also of the quality and delivery.  
       Focused and objective oriented, is always seeking new ways to improve his team’s working methods allowing them to be more productive.
@@ -78,7 +78,7 @@ education:
 experiences:
     - role: Tech Lead
       time: 2018 - Present
-      company: Institute for Systems and Computer Engineering of Porto
+      company: Institute for Systems and Computer Engineering of Porto (INESC TEC)
       details: |
         In 2018, was invited to join full-time INESC TEC, as a Tech Lead, for the European Project MELOA assuming the responsibility for the full life cycle
         of a wide variety of components, analysis, design, development, testing, deployment, post-production support/maintenance and documentation. 
@@ -117,7 +117,7 @@ experiences:
           - CI/CD
     - role: Researcher
       time: 2011 - 2014
-      company: Institute for Systems and Computer Engineering of Porto
+      company: Institute for Systems and Computer Engineering of Porto (INESC TEC)
       details: |
         At the beginning of 2011, joined the Institute for Systems and Computer Engineering of Porto as a researcher.
         During four years worked on National and European projects, developing mostly Web Applications. One of the platforms was nominated for the European Health Awards.
